@@ -2,7 +2,7 @@
 
 ### Sou um progamador em progamação!
 
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinailsonSilva&layout=compact&langs_count=16&theme=dracula"/>
+ <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DinailsonSilva&layout=compact&langs_count=8&theme=tokyonight"/>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Di-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
